@@ -5,7 +5,15 @@
 
 ## Installation
 
+To install the latest release:
+
 ```
 brew tap rlister/let-me-in
 brew install let-me-in
+```
+
+To install dev code from HEAD:
+
+```
+brew install let-me-in --HEAD
 ```
