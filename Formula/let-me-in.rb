@@ -3,8 +3,8 @@ require "language/go"
 class LetMeIn < Formula
   desc "Add my IP to AWS security group(s)"
   homepage "https://github.com/rlister/let-me-in"
-  url "https://github.com/rlister/let-me-in/archive/v0.0.7.tar.gz"
-  sha256 "0649af91522879fdad2584171e512e971e5561e59d88bedb8e22afbcca2e05ef"
+  url "https://github.com/rlister/let-me-in/archive/v0.1.0.tar.gz"
+  sha256 "3af4a3183be38ada5c46f935b9b569e77c5d5e4f02ce36d6bf643782858a73d5"
 
   depends_on "go" => :build
 
